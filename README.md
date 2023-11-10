@@ -26,6 +26,10 @@ Project for controlling a bldc motor with a ps4 controller.
 ![V3 model image](./models/underactuated-rotor-new-v3-params-v5.png)
 - [V3 model link](./models/underactuated-rotor-new-v3-params-v5.f3d)
 
+# Draft notes on models:
+
+[Notes](./resources/notes.pdf)
+
 # Credits:
 
 - [Modlab UPenn](https://www.modlabupenn.org/underactuated-rotor/)
