@@ -1,4 +1,6 @@
-Project for controlling a bldc motor with a ps4 controller.
+# Underactuatuated Rotor
+
+Project for controlling a bldc motor with a ps4 controller, fulfilling the underactuated rotor mechanism.
 
 # How to run
 
@@ -34,6 +36,7 @@ Project for controlling a bldc motor with a ps4 controller.
 
 - [Modlab UPenn](https://www.modlabupenn.org/underactuated-rotor/)
 - [Paper](https://www.modlabupenn.org/wp-content/uploads/paulos_an_underactuated_propeller_IROS_2013.pdf)
+- Steve Kelsey (Minimal rotor design)
 
 # License
 
