@@ -9,6 +9,23 @@ Project for controlling a bldc motor with a ps4 controller.
 
 # [Circuit](https://github.com/kaepek/sbldc-smt)
 
+# Models
+
+## Minimal v1
+
+![V1 model image](./models/Minimal-Rotor-v24.png)
+- [V1 model link](./models/Minimal-Rotor-v24.f3z)
+
+## Hex Design v2
+
+![V2 model image](./models/underactuated-rotor-hex-design-v31.png)
+- [V2 model link](./models/underactuated-rotor-hex-design-v31.f3d)
+
+## Hex Design v3
+
+![V3 model image](./models/underactuated-rotor-new-v3-params-v5.png)
+- [V3 model link](./models/underactuated-rotor-new-v3-params-v5.f3d)
+
 # Credits:
 
 - [Modlab UPenn](https://www.modlabupenn.org/underactuated-rotor/)
