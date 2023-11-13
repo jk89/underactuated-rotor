@@ -32,11 +32,18 @@ Project for controlling a bldc motor with a ps4 controller, fulfilling the under
 
 [Notes](./resources/notes.pdf)
 
-# Credits:
+# Credits
 
 - [Modlab UPenn](https://www.modlabupenn.org/underactuated-rotor/)
 - [Paper](https://www.modlabupenn.org/wp-content/uploads/paulos_an_underactuated_propeller_IROS_2013.pdf)
 - Steve Kelsey (Minimal rotor design)
+- [Circuit reference](https://simple-circuit.com/arduino-sensorless-bldc-motor-controller-esc/)
+
+# Disclaimer
+
+This is an experimental project. I have destroyed a great deal of hardware (motors, transistors, ICs) and almost caused a fire once. Please be careful when using this code. ABSOLUTELY NO WARRANTY. If you do not agree to this then please do not download this software as this would violate the license which this code was distributed with, see [./LICENSE](./LICENSE) for details.
+
+Moreover this project lacks sensible precautions with the ESC to halt the motor when its in a faulty state (aka something is in the way of the motor spinning). Due to its prototype nature represents a threat to you, if suitable personal protective gear and precautions are not made. I recommend building some sort of protective enclosure before one could safely experiment with the setup.
 
 # License
 
